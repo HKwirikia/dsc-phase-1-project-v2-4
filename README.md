@@ -31,7 +31,7 @@ There is a positive relationship between domestic gross and average rating. As t
 There is a positive relationship between the movie start year and domestic gross. The more recent a movie, the higher the gross.
 
 ### RQ2: What are the Best Performing Movie Genres in Box office?
-![image](https://user-images.githubusercontent.com/117145662/202927014-18892126-79bf-416f-bb3b-be9b59abb9db.png)
+![image](https://user-images.githubusercontent.com/117145662/202927833-b018ae3a-22de-417d-88de-ee9ae385ac0a.png)
 
 From the above bar graph, it is clear that among the top 100 movies based on domestic gross, the 3 best performing genres are:
 Adventure with 27 films
