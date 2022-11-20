@@ -25,6 +25,11 @@ The analysis entails the following steps:
 ![image](https://user-images.githubusercontent.com/117145662/202926965-a64ae8a9-74d9-4c4f-8918-09179300fa61.png)
 
 There is a positive relationship between domestic gross and average rating. As the rating increase, the domestic gross also increases.
+
+![image](https://user-images.githubusercontent.com/117145662/202927588-6c2c338e-0f4f-4161-8f9e-ce8401c8d10b.png)
+
+There is a positive relationship between the movie start year and domestic gross. The more recent a movie, the higher the gross.
+
 ### RQ2: What are the Best Performing Movie Genres in Box office?
 ![image](https://user-images.githubusercontent.com/117145662/202927014-18892126-79bf-416f-bb3b-be9b59abb9db.png)
 
