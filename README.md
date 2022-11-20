@@ -3,7 +3,7 @@
 ## Introduction
 Microsoft has decided to venture into the movie market. They are looking to start creating original films. On the filpside, the company has no knowledge about the movie market.
 
-This [exploratory data analysis](https://github.com/HKwirikia/dsc-phase-1-project-v2-4/blob/master/student.ipynb) aims at using existing film data to find out what types of films are at leading in the market today, amongst other features that affect movie performance. The findings will inform the company's CEO on the best way forward.
+This [exploratory data analysis](https://github.com/HKwirikia/dsc-phase-1-project-v2-4/blob/master/student.ipynb) aims at using existing film data to find out what types of films are at leading in the market today, amongst other features that affect movie performance. The [findings](https://github.com/HKwirikia/dsc-phase-1-project-v2-4/blob/master/presentation.pdf.pdf) will inform the company's CEO on the best way forward.
 
 ## Research Objective
 
