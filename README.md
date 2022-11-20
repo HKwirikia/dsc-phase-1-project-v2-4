@@ -26,7 +26,7 @@ The analysis entails the following steps:
 
 There is a positive relationship between domestic gross and average rating. As the rating increase, the domestic gross also increases.
 
-![image](https://user-images.githubusercontent.com/117145662/202927588-6c2c338e-0f4f-4161-8f9e-ce8401c8d10b.png)
+![image](https://user-images.githubusercontent.com/117145662/202927704-9e24d80b-fab1-4471-8a73-d830a60d9c7e.png)
 
 There is a positive relationship between the movie start year and domestic gross. The more recent a movie, the higher the gross.
 
